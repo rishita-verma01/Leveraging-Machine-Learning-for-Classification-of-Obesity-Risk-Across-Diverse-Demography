@@ -1,0 +1,2 @@
+# Leveraging-Machine-Learning-for-Classification-of-Obesity-Risk-Across-Diverse-Demography
+ChatGPT said: Obesity poses major public health risks. This study compares ML models (LR, KNN, DTC, GB, MLP, FNN) on 3 datasets for obesity risk prediction. Gradient Boosting achieved top accuracy: 95% on Dataset 1, 98% on Datasets 2 &amp; 3. Results highlight ML’s role in personalized, preventive healthcare.
