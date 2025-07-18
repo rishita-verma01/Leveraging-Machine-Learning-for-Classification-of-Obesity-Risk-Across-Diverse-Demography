@@ -141,6 +141,21 @@ This cross-framework approach provided greater reproducibility and ensured fairn
 > 📉 **Logistic Regression** and **KNN** showed decent results but lacked consistency across datasets.
 
 
+---
+
+## ✨ Novel Insights
+
+### ⚖️ Gender-Based Obesity Risk Analysis
+
+An important highlight of this research is the **comparative gender-based obesity risk** analysis across three datasets:
+
+- 📊 **Dataset 1**: Indicated that **females** were more prone to obesity.
+- ⚖️ **Dataset 2**: Showed an **equal risk** for both genders.
+- 👨‍🔬 **Dataset 3**: Revealed a **higher obesity risk among males**.
+
+These contrasting results emphasize the **influence of demographic, behavioral, and environmental factors** on obesity trends across genders. This insight supports the development of **personalized healthcare strategies** tailored to specific populations and risk factors.
+
+> 🖼️ *Figure 2 in the paper provides a graphical representation of this gender-based comparison.*
 
 ---
 
