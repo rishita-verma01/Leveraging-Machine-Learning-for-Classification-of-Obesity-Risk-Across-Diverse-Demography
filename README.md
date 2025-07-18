@@ -141,7 +141,10 @@ This cross-framework approach provided greater reproducibility and ensured fairn
 > 📉 **Logistic Regression** and **KNN** showed decent results but lacked consistency across datasets.
 
 
+
 ---
+
+
 
 ## ✨ Novel Insights
 
@@ -157,7 +160,23 @@ These contrasting results emphasize the **influence of demographic, behavioral, 
 
 > 🖼️ *Figure 2 in the paper provides a graphical representation of this gender-based comparison.*
 
+
+
+
 ---
+
+
+
+
+📄 [Download Paper (Author's Copy)](https://drive.google.com/file/d/1pw-XZlgrOOLzCuLqk524k6EhAJxyngWR/view?usp=sharing)
+
+> ⚠️ This is the author's version of the paper accepted for publication.  
+> The final published version is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/11011446).
+
+---
+
+
+
 
 ## 📄 Citation
 
